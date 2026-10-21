@@ -1,0 +1,8 @@
+interface:
+  display_name: "科研绘图辅助"
+  short_description: "基于真实数据绘制清晰、规范、可复用的科研图表，沿用统一风格并支持多格式输出"
+  default_prompt: "请使用 $research-figure-assistant（科研绘图辅助），根据我的数据选择合适图形，以统一科研风格用 Python 绘制并核对数值，输出预览及600 DPI PNG、PDF和SVG。"
+  icon_small: "assets/icon.svg"
+  icon_large: "assets/icon.svg"
+policy:
+  allow_implicit_invocation: true

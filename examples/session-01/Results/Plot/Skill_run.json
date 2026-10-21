@@ -1,0 +1,8 @@
+{
+  "source": {
+    "file": "comparison.csv",
+    "sha256": "69bfc47bbe4956df94ccc22759ebf1502686d9b306dd5cbbb299416a56e61ca8"
+  },
+  "scale_divisor": 1.0,
+  "chart": "line"
+}

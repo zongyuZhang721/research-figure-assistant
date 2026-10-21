@@ -1,0 +1,32 @@
+# Independently authored configuration for the selected scientific style.
+font.family: sans-serif
+font.sans-serif: DejaVu Sans
+font.size: 8.5
+axes.labelsize: 8.5
+legend.fontsize: 8
+xtick.labelsize: 8
+ytick.labelsize: 8
+axes.linewidth: 0.65
+axes.spines.top: False
+axes.spines.right: False
+axes.unicode_minus: False
+axes.axisbelow: True
+lines.linewidth: 1.35
+lines.markersize: 3.8
+xtick.direction: out
+ytick.direction: out
+xtick.major.size: 3
+ytick.major.size: 3
+xtick.major.width: 0.65
+ytick.major.width: 0.65
+xtick.top: False
+ytick.right: False
+xtick.minor.visible: False
+ytick.minor.visible: False
+pdf.fonttype: 42
+ps.fonttype: 42
+svg.fonttype: none
+mathtext.fontset: dejavusans
+text.usetex: False
+savefig.facecolor: white
+figure.facecolor: white

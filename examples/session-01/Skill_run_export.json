@@ -1,0 +1,23 @@
+{
+  "name": "Skill_run",
+  "png_pixels": [
+    3627,
+    2269
+  ],
+  "dpi": 600,
+  "page_mm": [
+    153.544,
+    96.069
+  ],
+  "font_pt": [
+    8.0,
+    8.5
+  ],
+  "visible_white_edges_px": [
+    23,
+    51,
+    20,
+    24
+  ],
+  "visual_review_required": true
+}

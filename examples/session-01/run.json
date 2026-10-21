@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-21",
+  "version": "1.2",
+  "execution": "Python 通用折线入口实际执行",
+  "input_type": "synthetic public example",
+  "inputs": [
+    {
+      "path": "examples/comparison.csv",
+      "sha256": "69bfc47bbe4956df94ccc22759ebf1502686d9b306dd5cbbb299416a56e61ca8"
+    },
+    {
+      "path": "examples/session-01/task.md",
+      "sha256": "add038d558bc8ff070f8c0e10e00b0cc3d66582d95f3b6e9dc9f571d2df62541"
+    }
+  ],
+  "outputs": [
+    "examples/session-01/Skill_run.png",
+    "examples/session-01/Skill_run.pdf",
+    "examples/session-01/Skill_run.svg",
+    "examples/session-01/Results/Plot/Skill_run.csv",
+    "examples/session-01/Results/Plot/Skill_run.json"
+  ],
+  "review": "examples/session-01/review.md",
+  "scope": "single demonstration; not a controlled baseline benchmark"
+}
